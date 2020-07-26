@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+table{
+	height: 15px;
+	width: 80%;
+	padding: 5px,10px;
+
+}
+body{
+	background-color:antiquewhite;
+}
+#Col1{
+	height: 80%;
+	width: 49%;
+	float: left;
+	border: double  #B90F32;
+	border-radius: 20px;
+	background-color: bisque;	
+}
+#Col2{
+	height: 80%;
+	width: 49%;
+	float: right;
+	border: double #B90F32;
+	border-radius: 20px;
+	background-color:yellow;
+}
+#pro{
+	padding: 60px;
+}
+
+#back {
+	width: 900px;
+	height:900px; 
+}
+th{
+	font-size: 20px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+p{
+	font-size: 30px;
+	color:darkblue;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-style:italic;
+}
+
+#Home{color:orangered;
+}
+#logo{
+	height: 40px;
+	widows: 40px;
+	padding: 0px;
+	border: double #F11014 ;
+		
+}
+button{
+		font-size: 20px;
+	color: white;
+	background-color: orangered;
+	border:none #000000;
+/*	border-top-left-radius: 30%;
+	border-top-right-radius: 30%;
+	border-bottom-left-radius: 30%;
+	border-bottom-right-radius: 30%;
+*/
+	border-radius: 25px;
+	padding: 5px;
+	width: 200px;
+	height: 35px;
+}
+	
+
+
